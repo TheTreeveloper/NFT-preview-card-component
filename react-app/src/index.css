@@ -23,3 +23,18 @@ body {
 h1 {
   color: var(--Cyan);
 }
+
+/* Created By section */
+
+.creator-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 1rem;
+}
+
+.creator-container img {
+  width: 2rem;
+  border: 2px solid var(--White);
+  border-radius: 50%;
+}

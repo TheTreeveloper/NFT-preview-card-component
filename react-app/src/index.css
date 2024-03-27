@@ -41,6 +41,20 @@ body {
   width: 100%;
 }
 
+/* Content */
+h1 {
+  color: var(--White);
+  font-size: 1.3rem;
+}
+
+p {
+  color: var(--Soft-blue);
+  font-size: 1rem;
+  font-weight: 400;
+}
+
+
+
 /* Created By section */
 
 .creator-container {
@@ -55,3 +69,4 @@ body {
   border: 2px solid var(--White);
   border-radius: 50%;
 }
+

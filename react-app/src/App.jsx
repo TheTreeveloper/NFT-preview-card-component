@@ -4,8 +4,10 @@ import {Creator} from "./creator";
 function App () {
     return (
         <>
-        <h1>Hello World</h1>
-        <Creator name = "Jules Wyvern"/>
+        <div className="parent-container">
+            <Creator name = "Jules Wyvern"/>
+        </div>
+        
         </>
     );
 }

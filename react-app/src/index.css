@@ -18,10 +18,26 @@
 
 body {
   background-color: var(--Very-dark-blue-main-BG);
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
 }
 
 h1 {
   color: var(--Cyan);
+}
+
+.parent-container {
+  display: flex;
+  flex-direction: column;
+  background-color: var(--Very-dark-blue-card-BG);
+  height: auto;
+  width: 100%;
+  justify-content: center;
+  align-items: center;
+  padding: 2rem;
+  border-radius: 1rem;
 }
 
 /* Created By section */

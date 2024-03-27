@@ -1,5 +1,3 @@
-import React from "react";
-
 export const Creator = (props) => {
 
     const {name} = props;

@@ -15,6 +15,7 @@ export const Content = () => {
                     <p className="duration">3 days left</p>
                 </div>
             </div>
+            <hr />
         </div>
         </>
     );

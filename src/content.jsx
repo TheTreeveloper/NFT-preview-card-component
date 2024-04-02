@@ -7,11 +7,11 @@ export const Content = () => {
 
             <div className="content-info">
                 <div className="eth-info">
-                    <img src="./src/assets/images/icon-ethereum.svg" alt="Ethereum icon image" />
+                    <img src="icon-ethereum.svg" alt="Ethereum icon image" />
                     <p className="eth">0.041 ETH</p>
                 </div>
                 <div className="days-left">
-                    <img src="./src/assets/images/icon-clock.svg" alt="Clock image" />
+                    <img src="icon-clock.svg" alt="Clock image" />
                     <p className="duration">3 days left</p>
                 </div>
             </div>

@@ -3,7 +3,11 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
+<<<<<<< HEAD
   "homepage": "https://ioddgamers.github.io/NFT-preview-card-component/",
+=======
+  "homepage": "https://ioddgamers.github.io/NFT-preview-card-component",
+>>>>>>> 82dd181230ed2c148875cdd3d31e96e1216b17c6
   "scripts": {
     "dev": "vite",
     "build": "vite build",
